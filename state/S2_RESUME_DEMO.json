@@ -1,0 +1,8 @@
+{
+    "checkpoint_id": "S2_RESUME_DEMO",
+    "completed_scenario": "S2",
+    "status": "COMPLETED",
+    "last_outcome": "REFUND",
+    "refund_amount": 135.0,
+    "saved_at": "2026-11-09T07:12:25.319345+00:00"
+}

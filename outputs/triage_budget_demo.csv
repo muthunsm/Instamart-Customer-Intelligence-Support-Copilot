@@ -1,0 +1,3 @@
+method,accuracy_percent,correct_predictions,evaluated_tickets,total_tokens,retries
+zero_shot,77.5,124,160,11852,19
+few_shot,90.62,145,160,18412,19

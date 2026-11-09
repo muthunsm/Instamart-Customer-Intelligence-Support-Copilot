@@ -1,0 +1,165 @@
+ticket_id,true_category,predicted_category,reason,status,tokens
+T0024,fraud,fraud,keyword match,classified,60
+T0073,billing,billing,keyword match,classified,56
+T0095,technical,billing,keyword match,classified,58
+T0159,none,none,Empty ticket message,empty,0
+T0080,fraud,billing,keyword match,classified,60
+T0124,fraud,billing,keyword match,classified,60
+T0061,billing,billing,keyword match,classified,52
+T0118,delivery,delivery,keyword match,classified,55
+T0037,billing,billing,keyword match,classified,56
+T0002,delivery,delivery,keyword match,classified,54
+T0163,delivery,delivery,keyword match,classified,769
+T0031,technical,billing,keyword match,classified,58
+T0047,technical,technical,keyword match,classified,47
+T0063,technical,technical,Invalid response fallback,classified,51
+T0121,billing,billing,keyword match,classified,56
+T0139,technical,technical,keyword match,classified,63
+T0115,technical,technical,keyword match,classified,47
+T0123,technical,technical,Invalid category fallback,classified,47
+T0116,fraud,billing,keyword match,classified,60
+T0136,fraud,fraud,keyword match,classified,54
+T0008,fraud,fraud,keyword match,classified,60
+T0102,delivery,delivery,keyword match,classified,58
+T0072,fraud,billing,keyword match,classified,60
+T0101,billing,billing,keyword match,classified,56
+T0059,technical,technical,keyword match,classified,47
+T0049,billing,billing,keyword match,classified,56
+T0153,billing,technical,Invalid response fallback,classified,56
+T0050,delivery,delivery,keyword match,classified,54
+T0147,technical,billing,keyword match,classified,58
+T0074,delivery,delivery,keyword match,classified,54
+T0156,fraud,fraud,keyword match,classified,60
+T0145,billing,billing,keyword match,classified,56
+T0053,billing,billing,keyword match,classified,56
+T0134,delivery,delivery,keyword match,classified,58
+T0039,technical,technical,Invalid category fallback,classified,63
+T0016,fraud,billing,keyword match,classified,60
+T0055,technical,technical,keyword match,classified,63
+T0130,delivery,delivery,keyword match,classified,58
+T0099,technical,technical,keyword match,classified,63
+T0062,delivery,technical,Invalid response fallback,classified,58
+T0013,billing,billing,keyword match,classified,56
+T0137,billing,billing,keyword match,classified,56
+T0152,fraud,billing,keyword match,classified,60
+T0144,fraud,billing,keyword match,classified,60
+T0094,delivery,delivery,keyword match,classified,58
+T0021,billing,billing,keyword match,classified,52
+T0077,billing,billing,keyword match,classified,52
+T0036,fraud,billing,keyword match,classified,60
+T0113,billing,billing,keyword match,classified,52
+T0060,fraud,fraud,keyword match,classified,60
+T0043,technical,technical,keyword match,classified,47
+T0048,fraud,technical,Invalid category fallback,classified,54
+T0154,delivery,technical,Invalid response fallback,classified,62
+T0125,billing,billing,keyword match,classified,52
+T0146,delivery,delivery,keyword match,classified,55
+T0107,technical,technical,keyword match,classified,47
+T0011,technical,technical,keyword match,classified,63
+T0017,billing,billing,keyword match,classified,56
+T0111,technical,technical,keyword match,classified,47
+T0041,billing,billing,keyword match,classified,56
+T0120,fraud,fraud,keyword match,classified,60
+T0122,delivery,delivery,keyword match,classified,54
+T0001,billing,billing,keyword match,classified,56
+T0064,fraud,fraud,keyword match,classified,60
+T0092,fraud,fraud,keyword match,classified,54
+T0038,delivery,technical,Invalid response fallback,classified,58
+T0155,technical,technical,keyword match,classified,63
+T0104,fraud,fraud,keyword match,classified,54
+T0012,fraud,technical,Invalid category fallback,classified,60
+T0084,fraud,fraud,keyword match,classified,60
+T0051,technical,technical,keyword match,classified,47
+T0143,technical,technical,keyword match,classified,63
+T0035,technical,billing,keyword match,classified,58
+T0028,fraud,fraud,keyword match,classified,60
+T0100,fraud,fraud,keyword match,classified,60
+T0022,delivery,delivery,keyword match,classified,58
+T0082,delivery,delivery,keyword match,classified,54
+T0127,technical,billing,keyword match,classified,58
+T0162,delivery,technical,Invalid response fallback,classified,773
+T0109,billing,billing,keyword match,classified,56
+T0046,delivery,delivery,keyword match,classified,58
+T0081,billing,billing,keyword match,classified,56
+T0007,technical,technical,keyword match,classified,47
+T0068,fraud,billing,keyword match,classified,60
+T0085,billing,billing,keyword match,classified,56
+T0075,technical,technical,Invalid category fallback,classified,63
+T0052,fraud,fraud,keyword match,classified,60
+T0066,delivery,delivery,keyword match,classified,58
+T0151,technical,technical,keyword match,classified,47
+T0131,technical,technical,keyword match,classified,47
+T0006,delivery,delivery,keyword match,classified,55
+T0135,technical,technical,Invalid response fallback,classified,62
+T0079,technical,technical,keyword match,classified,47
+T0040,fraud,fraud,keyword match,classified,60
+T0093,billing,billing,keyword match,classified,56
+T0089,billing,billing,keyword match,classified,52
+T0034,delivery,delivery,keyword match,classified,58
+T0033,billing,billing,keyword match,classified,56
+T0160,none,none,Empty ticket message,empty,0
+T0087,technical,technical,keyword match,classified,63
+T0009,billing,billing,keyword match,classified,56
+T0108,fraud,billing,keyword match,classified,60
+T0054,delivery,delivery,keyword match,classified,55
+T0025,billing,technical,Invalid category fallback,classified,56
+T0004,fraud,fraud,keyword match,classified,60
+T0148,fraud,technical,Invalid response fallback,classified,64
+T0088,fraud,fraud,keyword match,classified,54
+T0030,delivery,delivery,keyword match,classified,55
+T0067,technical,technical,keyword match,classified,47
+T0029,billing,billing,keyword match,classified,56
+T0129,billing,billing,keyword match,classified,56
+T0105,billing,billing,keyword match,classified,52
+T0045,billing,billing,keyword match,classified,56
+T0069,billing,billing,keyword match,classified,56
+T0010,delivery,delivery,keyword match,classified,55
+T0023,technical,technical,keyword match,classified,47
+T0106,delivery,delivery,keyword match,classified,55
+T0015,technical,billing,keyword match,classified,58
+T0091,technical,technical,Invalid response fallback,classified,67
+T0126,delivery,delivery,keyword match,classified,54
+T0096,fraud,technical,Invalid category fallback,classified,60
+T0149,billing,billing,keyword match,classified,56
+T0070,delivery,delivery,keyword match,classified,55
+T0026,delivery,delivery,keyword match,classified,55
+T0097,billing,billing,keyword match,classified,52
+T0132,fraud,billing,keyword match,classified,60
+T0027,technical,billing,keyword match,classified,58
+T0119,technical,billing,keyword match,classified,58
+T0157,none,none,Empty ticket message,empty,0
+T0058,delivery,delivery,keyword match,classified,55
+T0110,delivery,delivery,keyword match,classified,58
+T0018,delivery,delivery,keyword match,classified,55
+T0032,fraud,technical,Invalid response fallback,classified,64
+T0003,technical,technical,keyword match,classified,47
+T0042,delivery,delivery,keyword match,classified,54
+T0056,fraud,fraud,keyword match,classified,60
+T0114,delivery,delivery,keyword match,classified,54
+T0083,technical,technical,keyword match,classified,47
+T0138,delivery,technical,Invalid category fallback,classified,55
+T0057,billing,billing,keyword match,classified,52
+T0076,fraud,billing,keyword match,classified,60
+T0019,technical,technical,keyword match,classified,63
+T0103,technical,billing,keyword match,classified,58
+T0164,delivery,delivery,keyword match,classified,769
+T0090,delivery,delivery,keyword match,classified,58
+T0112,fraud,technical,Invalid response fallback,classified,64
+T0133,billing,billing,keyword match,classified,52
+T0014,delivery,delivery,keyword match,classified,55
+T0158,none,none,Empty ticket message,empty,0
+T0020,fraud,fraud,keyword match,classified,60
+T0142,delivery,delivery,keyword match,classified,58
+T0086,delivery,delivery,keyword match,classified,54
+T0141,billing,billing,keyword match,classified,52
+T0044,fraud,fraud,keyword match,classified,54
+T0117,billing,billing,keyword match,classified,52
+T0078,delivery,delivery,keyword match,classified,54
+T0140,fraud,technical,Invalid category fallback,classified,60
+T0071,technical,technical,keyword match,classified,63
+T0161,delivery,delivery,keyword match,classified,769
+T0150,delivery,technical,Invalid response fallback,classified,58
+T0065,billing,billing,keyword match,classified,56
+T0128,fraud,fraud,keyword match,classified,54
+T0005,billing,billing,keyword match,classified,52
+T0098,delivery,delivery,keyword match,classified,54

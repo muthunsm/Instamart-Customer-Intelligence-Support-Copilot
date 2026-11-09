@@ -1,0 +1,9 @@
+question,status,answer,sources
+What is the refund rule for an order delivered after 45 minutes?,POLICY_FOUND,"order is delivered in more than 45 minutes, the customer receives a full refund of the order amount.","refund_policy.txt, refund_policy.txt, delivery_policy.txt"
+How long does a failed deducted payment take to return?,POLICY_FOUND,"If a payment fails but money is deducted, the amount is returned automatically
+  fails but money is deducted, the amount is returned automatically within 48 hours.","payment_policy.txt, payment_policy.txt, refund_policy.txt"
+When should a fraud ticket be escalated?,POLICY_FOUND,A ticket about fraud or an unauthorized transaction is marked high priority and sent to the security team within 2 hours.,"escalation_policy.txt, payment_policy.txt, escalation_policy.txt"
+How are customer phone numbers protected?,POLICY_FOUND,Customer phone numbers and email addresses are used only for order updates and support.,"privacy_policy.txt, privacy_policy.txt, privacy_policy.txt"
+Can I get a refund for a cancelled order?,POLICY_FOUND,"Orders with status cancelled were never charged, so no refund applies to them.","refund_policy.txt, refund_policy.txt, payment_policy.txt"
+What colour is the company logo?,NO_RELEVANT_POLICY,I could not find a relevant answer in the policy documents.,
+Who won the cricket final?,NO_RELEVANT_POLICY,I could not find a relevant answer in the policy documents.,
