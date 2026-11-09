@@ -1,0 +1,8 @@
+{
+    "checkpoint_id": "S7_RESUME_DEMO",
+    "completed_scenario": "S7",
+    "status": "COMPLETED",
+    "last_outcome": "FALLBACK",
+    "refund_amount": 0,
+    "saved_at": "2026-11-09T07:26:39.333077+00:00"
+}

@@ -1,0 +1,9 @@
+{
+    "checkpoint_id": "S3_RESUME_DEMO",
+    "completed_scenario": "S3",
+    "status": "COMPLETED",
+    "last_outcome": "ESCALATE",
+    "refund_amount": 1999.0,
+    "approval_status": "PENDING_HUMAN_APPROVAL",
+    "saved_at": "2026-11-09T07:15:40.615579+00:00"
+}
